@@ -20,8 +20,13 @@ body{
     font-size: 3.8rem;
     color: var(--primario);
     font-family: 'Krub', sans-serif;
+    font-weight: normal;
 }
 
 .titulo span{
     font-size: 2rem;
+}
+
+.navegacion-principal{
+    background-color: var(--secundario);
 }
